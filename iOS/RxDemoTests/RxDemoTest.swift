@@ -1,8 +1,5 @@
 import Foundation
-
-import Foundation
 import XCTest
-import RxSwift
 
 class RxDemoTests: XCTestCase {
     func testInvalid() {
